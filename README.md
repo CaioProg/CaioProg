@@ -1,5 +1,5 @@
-## Olá!
-- 🔭 Atualmente estudando Ruby on Rails
+## Hello!
+- 🔭 Currently studying Ruby on Rails
 
  <div>
   <a href="https://github.com/CaioProg">
