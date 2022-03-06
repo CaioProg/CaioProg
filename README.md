@@ -12,6 +12,7 @@
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Caio-Rb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg">
   <img align="center" alt="Caio-Rails" height="30" width="30" src="https://icon-library.com/images/ruby-on-rails-icon/ruby-on-rails-icon-29.jpg">
+  <img align="center" alt="Caio-CSharp" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg">
   </div>
   
   ##
