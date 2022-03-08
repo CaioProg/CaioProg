@@ -1,5 +1,5 @@
 ## Hello!
-- 🔭 Currently studying Ruby on Rails and JavaScript
+- 🔭 Currently studying C#
 
  <div>
   <a href="https://github.com/CaioProg">
