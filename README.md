@@ -1,5 +1,5 @@
 ## Hello!
-- 🔭 Currently studying C#
+- 🔭 .NET Backend Development Internship
 
 
   <div style="display: inline_block"><br>
