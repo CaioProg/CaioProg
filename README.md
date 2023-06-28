@@ -1,5 +1,5 @@
 ## Hello!
-- 🔭 .NET Backend Development Internship
+- 🔭 .NET Backend Development
 
 
   <div style="display: inline_block"><br>
