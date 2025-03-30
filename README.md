@@ -9,7 +9,7 @@
   </div>
   
   ##
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioProg&layout=compact&hide=ruby,html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioProg&layout=compact&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
   
   <div> 
   <a href = "mailto:caioprog18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
