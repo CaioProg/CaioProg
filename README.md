@@ -24,5 +24,3 @@
 ### 🚀 What I'm exploring
 
 **Generative AI · LLMs · RAG · AI Platform · LLMOps · Model Serving · MCP · OpenTelemetry**
-
-📚 **[AI Platform — study roadmap & hands-on labs](https://github.com/CaioProg/ai-platform)**: my learning project covering LLM fundamentals, agents, MCP, inference, gateways, Kubernetes, and observability.
